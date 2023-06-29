@@ -2,7 +2,7 @@
 
 Projeto Mobile First para criação de um aplicativo de rede social inspirado no Reddit.
 
-Acesse aqui o link do deploy. 
+[Acesse aqui](https://labeddit-rafael-machado.surge.sh) o link do deploy. 
 
 # Layout
 
