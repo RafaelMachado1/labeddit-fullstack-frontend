@@ -8,7 +8,7 @@ Acesse aqui o link do deploy.
 
 O layout foi desenvolvido tendo como base o template do Figma conforme mostra a figura abaixo.
 
-![](./src/assets/layout-pages.png)
+![](./labeddit/src/assets/layout-pages.png)
 
 # Conteúdos abordados
 - JSX
